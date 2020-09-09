@@ -1,0 +1,9 @@
+This is an example of reading a text file
+you can see 
+that the lines
+are separated by new line
+do 
+you 
+see 
+it
+?
